@@ -10,5 +10,6 @@ Native way to make all element draggable (No jquery)
 ```
  document.getElementById('flex1').onmousedown = function () {
     _drag_init(this);
+    }
   ```
     
