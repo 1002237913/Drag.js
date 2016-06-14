@@ -40,10 +40,5 @@ function _destroy() {
     selected = null;
 }
 
-// Bind the functions...
-
-
 document.onmousemove = _move_elem;
 document.onmouseup = _destroy;
-
-/*可滑動之navbar 結束 */
